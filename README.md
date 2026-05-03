@@ -1,16 +1,13 @@
-## Hi there 👋
+## Status
 
-<!--
-**sefy-cpu/sefy-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Week N (dates) — X/Y goals done
 
-Here are some ideas to get you started:
+JEE: Phase 1 · Week N · [chapter]
+PrepAI: Phase [N] · [what is being built]
+Reading: [title] · [where you are]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Threads
+
+JEE 2027 · PrepAI · The MAP · The List · SOV · Skills · Reading
